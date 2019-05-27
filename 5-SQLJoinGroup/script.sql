@@ -1,3 +1,5 @@
+
+
 -- METHOD 1
 SELECT Nome_Colaborador,sum(Valor_Pago) 
 FROM Colaboradores c 
