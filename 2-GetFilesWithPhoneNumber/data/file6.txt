@@ -1,0 +1,19 @@
+https://www.tecmundo.com.br/ciencia/141496-lua-sofre-abalos-sismicos-encolhe-uva-passa-aponta-nasa.htm
+
+Cientistas da NASA revelam que a Lua sofre abalos sísmicos e está diminuindo “como uma uva passa”. A comparação feita pelos representantes da agência norte-americana se refere ao aspecto enrugado e reduzido da superfície do satélite, devido a alguns fenômenos naturais. A informação faz parte de um recente estudo publicado na revista científica Nature, o qual comprova que o satélite na verdade é ativo em alguns pontos.
+
+Apesar da aparência similar à de uma uva passa, a crosta da superfície lunar é bastante quebradiça, por causa de um processo de resfriamento interno. Esse fator também demonstra que, ao contrário da Terra, no satélite não há placas tectônicas – blocos rochosos que formam a crosta terrestre. 
+
+Falhas geológicas e sismos
+À medida que a Lua se encolhe, sua superfície forma algumas falhas geológicas, de modo que suas crostas acabam se “empurrando” umas sobre as outras. Isso então gera alguns terremotos, que podem chegar ao nível 5 da escala de Richter – magnitude compreendida entre moderada e forte.
+
+“Nossa análise é a primeira evidência de que essas falhas ainda estão ativas e provavelmente produzindo sismos hoje, à medida que a Lua continua a esfriar e se encolher gradualmente”, disse Thomas Watters, cientista e líder do estudo realizado. O impacto de todos esses fenômenos é relativamente lento, embora considerável, pois a superfície lunar reduziu 50 metros ao longo de centenas de milhões de anos.
+
+Análise de dados lunares
+Para chegar a essas conclusões, os cientistas da NASA avaliaram quatro sismógrafos – equipamentos que medem abalos sísmicos –, deixados por astronautas na superfície da Lua durante as missões Apollo 11, 12, 14, 15 e 16. Esses aparelhos registraram 28 terremotos leves de 1969 a 1977. Nessa época, não havia tecnologia adequada para análise dos dados captados.
+
+Agora, com a ajuda de um algoritmo de localização, o grupo descobriu que oito desses sismos ocorreram no espaço de 30 quilômetros das falhas geológicas. Devido a essa proximidade, foi possível atribuí-las aos terremotos. Além disso, a análise foi capaz de constatar que seis dos oito tremores aconteceram quando a Lua ainda estava em seu apogeu, ou seja, no ponto mais distante da Terra.
+
+Nessa posição, existia grande tensão sobre a gravidade, reforçando ainda mais a ocorrência desses eventos. Os pesquisadores também realizaram 10 mil simulações em condições semelhantes, para sustentar suas constatações. O resultado indicava que havia somente 4% de chance de a teoria ser somente uma coincidência. Há pouco tempo, eles também verificaram imagens do rover Lunar Reconnaissance, que registrou mais de 3,5 mil escarpas de falhas desde 2009.
+
+A NASA pretende instalar uma nova rede de sismógrafos na superfície lunar para compreender ainda mais os fenômenos descobertos. O objetivo faz parte da próxima missão até o satélite envolvendo humanos, prevista para 2028.

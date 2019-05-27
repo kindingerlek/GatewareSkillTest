@@ -1,0 +1,22 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <div style="margin-top: 50vh !important;margin-bottom: 50vh !important; padding-left: 20%; padding-right: 20%">
+        <div class="form-group">
+            <select class="form-control" id="selectBox">
+                <option selected disabled>Select</option>
+            </select>
+        </div>
+
+        <div class="form-group">
+            <button class="btn btn-md btn-primary" id="btnDoAjax">Do AJAX</button>
+            <button class="btn btn-md btn-danger" id="btnClear">Clear</button>
+        </div>
+    </div>
+</div>
+
+<script src="~/js/index.js"></script>
