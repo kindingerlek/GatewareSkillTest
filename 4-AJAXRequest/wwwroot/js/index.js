@@ -21,7 +21,6 @@ function LoadData() {
     $.ajax({
         url: "js/json.json",
         success: function (data) {
-            alert("oi");
             $.each(data, function (i, d) {
                 $("#selectBox").append(`<option value = ${d.id}> ${d.name} </option>`);
             })
