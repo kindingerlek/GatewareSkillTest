@@ -1,1 +1,1 @@
-"# GatewareSkillTest" 
+# GatewareSkillTest
